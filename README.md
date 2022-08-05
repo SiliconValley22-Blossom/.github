@@ -383,9 +383,16 @@ colorization-AI
     </tr>
     </tbody>
 </table>
+  
+## 지원 브라우저
+
+  
+<image src="https://user-images.githubusercontent.com/55674648/183087930-5c4f56d3-8bed-4d8d-86c7-f26c9887332b.png" width="20" height="20"> Chrome|<image src="https://user-images.githubusercontent.com/55674648/183088126-aa986753-ddca-49df-aa1c-d732b374219e.png" width="20" height="20"> Edge|<image src="(https://user-images.githubusercontent.com/55674648/183088660-7fd7aec4-2f0a-4536-9921-878b926169d4.png" width="20" height="20"> FireFox|<image src="https://user-images.githubusercontent.com/55674648/183088361-48d90c6a-3037-4792-ba33-bf6510f2dfd7.png" width="20" height="20"> Safari|
+|:---:|:---:|:---:|:---:|
+|✔ (84+)|✔ (84+)|✔ (63+)|✔ (14.1+)|  
 
 ## Youtube
-
+https://www.youtube.com/watch?v=dkyn-BkEIv0
 
 ---
 ## Reference
