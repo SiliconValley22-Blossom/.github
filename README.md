@@ -235,6 +235,29 @@ colorization-AI
 </details>
 
 ---
+
+## System description
+
+![image](https://user-images.githubusercontent.com/55674648/183083098-c507d4ed-72f3-4f44-8b39-135f0f56d467.png)
+
+
+- 웹서버로 Nginx 사용, 리버스 프록시 구현
+- wsgi 미들웨어로 gunicorn 사용 : 안정적인 서비스 제공
+
+![image](https://user-images.githubusercontent.com/55674648/183084822-a4602299-52b0-4be3-8e4a-65766157e26d.png)
+
+
+- 로그인 시 jwt 토큰을 발급하여 클라이언트 쿠키에 저장시켜 인증/인가에 사용
+- refresh 토큰을 관리하기 위해 redis를 사용
+
+![image](https://user-images.githubusercontent.com/55674648/183084862-68d622b3-6e11-486e-9e81-146febf2bf04.png)
+
+- 저희는 동시 요청에 대응하기 위해 task를 메세지큐(rabbitMQ)에 할당하여 관리하도록 설계
+- 해당 메시지를 celery에 요청
+
+
+---
+
 ## Features
 - 회원가입
 <img src="https://user-images.githubusercontent.com/77226122/182764728-c098501b-04e9-4695-8b24-eb797e8e5f24.gif">
@@ -360,6 +383,9 @@ colorization-AI
     </tr>
     </tbody>
 </table>
+
+## Youtube
+
 
 ---
 ## Reference
