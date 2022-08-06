@@ -261,10 +261,14 @@ colorization-AI
 ## Features
 - 회원가입
 <img src="https://user-images.githubusercontent.com/77226122/182764728-c098501b-04e9-4695-8b24-eb797e8e5f24.gif">
+  로그인 창에서 버튼을 누르면 Redirect하셔서 볼 수 있습니다.
 - 로그인
 <img src="https://user-images.githubusercontent.com/77226122/182764835-a1f3e702-01db-4e95-a8bc-ea87e43c0b72.gif">
+  회원가입 또는 비밀번호를 찾을 수 있는 링크를 설정해두었습니다.
 - 로그아웃
 <img src="https://user-images.githubusercontent.com/77226122/182766454-50a3474a-45db-4900-8da2-379948aee233.gif">
+  로그아웃을 누르면 홈화면으로 넘어가게됩니다.
+  
 - 이미지 컬러 복원
 <img src="https://user-images.githubusercontent.com/77226122/182765604-f5854f16-84af-40c3-9544-ace192295d52.gif">
 - 이미지 다운로드
