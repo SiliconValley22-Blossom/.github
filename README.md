@@ -267,24 +267,32 @@ colorization-AI
 <img src="https://user-images.githubusercontent.com/77226122/182766454-50a3474a-45db-4900-8da2-379948aee233.gif">
 - 이미지 컬러 복원
 <img src="https://user-images.githubusercontent.com/77226122/182765604-f5854f16-84af-40c3-9544-ace192295d52.gif">
+  흰색 창 가운데 아이콘을 누르시면 사진을 업로드 할 수 잇으며 "Go Colorize!"버튼을 누르면 잠시 로딩 한 후 컬러사진의 결과를 확인 할 수 있습니다.
 - 이미지 다운로드
 <img src="https://user-images.githubusercontent.com/77226122/182765939-c1d5d830-f256-47be-a475-214ca1ad21f2.gif">
 - 마이페이지
 <img src="https://user-images.githubusercontent.com/77226122/182766238-7d8bc8cf-3a69-4d51-87a3-9ecc59b6e7fa.gif">
+  이전에 컬러화 시켰던 모든 사진들을 확인 할 수 있으며, 각각의 사진위를 호버할 때 그 사진의 컬러화 전 흑백상태를 확인 할 수 있습니다.
 - 마이프로필
 <img src="https://user-images.githubusercontent.com/77226122/182766619-d5ba9cee-47a2-4075-b142-ad5de0c70245.gif">
+  닉네임과 이메일을 확인 할 수 있고, 비밀번호를 변경 할 수 있습니다.
 - 비밀번호 변경
 <img src="https://user-images.githubusercontent.com/77226122/182766973-05ee87b3-5904-4b24-87b3-b4e2f2175dfa.gif">
+  임시비밀번호를 이메일로 전송하여 비밀번호를 변경할 수 있습니다.
 - 관리자 페이지
 <img src="https://user-images.githubusercontent.com/77226122/182767344-b0c8f641-a4df-4025-afcc-f930181d4f90.gif">
+  어드민 권한을 따로 관리하여 사용자들의 리스트와 사용자들이 제작한 사진을 확인 할 수 있습니다.
 - 유저 이미지 확인
 <img src="https://user-images.githubusercontent.com/77226122/182794237-c9700347-fd7a-4b86-8088-3a4e36a9ab2d.gif">
+  유저의 닉네임을 누르면 각 유저들의 이미지를 확인 할 수 있습니다. 
 - 유저 강제 탈퇴
 <img src="https://user-images.githubusercontent.com/77226122/182767783-1533aad8-7a7b-4c91-89a2-260c5ba120b8.gif">
+  체크박스를 누르고 delete 버튼을 누르면 사용자를 지울 수 있습니다.
 - 반응형 적용
 <img src="https://user-images.githubusercontent.com/77226122/182768988-355d4ad8-2da6-4aa5-ba07-ffe3be9fd294.gif">
+  모바일 환경에서 볼 수 있도록 화면이 일정 너비 이상 작아질때, 환경에 맞게 변경하여 드롭다운 메뉴를 추가하여 구현하였습니다. 또한 화면이 줄어듬에 따라 사진에 있는 그리드도 바뀌는걸 확인 할 수 있습니다.
+  
 - Monitoring Tools
-
   prometheus & grafana
   <img src="https://user-images.githubusercontent.com/55674648/182312846-2d815526-84bf-4674-9c28-d809528c4cf6.png">
 - [BACKEND API DOC](https://siliconvalley22-blossom.github.io/blossom.github.io/)
